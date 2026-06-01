@@ -1,16 +1,59 @@
-## Hi there 👋
 
-<!--
-**EdGracia/edgracia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Ed 
 
-Here are some ideas to get you started:
+Software Engineering student at the University of Miami.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on building software from the ground up and learning by creating real projects rather than following tutorials.
+
+## What I'm Working On
+
+🎮 Building a 2D platformer and custom game systems in C++ using Raylib
+
+🧠 Exploring how AI is changing software development and what developers should build next
+
+📚 Teaching programming and mathematics through tutoring
+
+🌐 Growing my personal website and technical blog at **edgracia.dev**
+
+---
+
+## Current Focus
+
+Right now I'm interested in:
+
+* C++
+* Game Development
+* Software Architecture
+* AI-Assisted Development
+* Developer Tools
+* Startups & Product Building
+
+---
+
+## Tech Stack
+
+**Languages**
+
+* C++
+* Python
+* Java
+* JavaScript
+* SQL
+
+**Tools**
+
+* Git
+* GitHub
+* Neovim
+* Raylib
+* Linux/macOS
+
+---
+
+## Connect With Me
+
+🌐 Website: https://edgracia.dev
+
+💼 LinkedIn: [https://www.linkedin.com/in/eduardo-ed-gracia/]
+
+📫 Email: [talogracia@gmail.com]
