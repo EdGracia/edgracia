@@ -11,7 +11,7 @@ I'm currently focused on building software from the ground up and learning by cr
 
 🧠 Exploring how AI is changing software development and what developers should build next
 
-📚 Teaching programming and mathematics through tutoring
+📚 Learning Low-Level System Design
 
 **Check out my [Blog](https://edgracia.dev/blog) for project updates!**
 
