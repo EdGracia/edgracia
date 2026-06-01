@@ -3,7 +3,7 @@
 
 Software Engineering student at the University of Miami.
 
-I'm currently focused on building software from the ground up and learning by creating real projects rather than following tutorials.
+I'm currently focused on building software from the ground up and learning by creating projects that solve real-world problems.
 
 ## What I'm Working On
 
