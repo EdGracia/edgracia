@@ -13,7 +13,7 @@ I'm currently focused on building software from the ground up and learning by cr
 
 📚 Teaching programming and mathematics through tutoring
 
-🌐 Growing my personal website and technical blog at **edgracia.dev**
+#### Check out my blog for project updates <edgracia.dev/blog>
 
 ---
 
