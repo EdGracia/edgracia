@@ -54,6 +54,6 @@ Right now I'm interested in:
 
 🌐 Website: https://edgracia.dev
 
-💼 LinkedIn: [https://www.linkedin.com/in/eduardo-ed-gracia/]
+💼 LinkedIn: (https://www.linkedin.com/in/eduardo-ed-gracia/)
 
-📫 Email: [talogracia@gmail.com]
+📫 Email: (talogracia@gmail.com)
