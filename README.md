@@ -38,6 +38,7 @@ Right now I'm interested in:
 * Python
 * Java
 * JavaScript
+* TypeScript
 * SQL
 
 **Tools**
