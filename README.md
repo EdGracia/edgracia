@@ -5,29 +5,6 @@ Software Engineering student at the University of Miami.
 
 I'm currently focused on building software from the ground up and learning by creating projects that solve real-world problems.
 
-## What I'm Working On
-
-🎮 Building a 2D platformer and custom game systems in C++ using Raylib
-
-🧠 Exploring how AI is changing software development and what developers should build next
-
-📚 Learning Low-Level System Design
-
-**Check out my [Blog](https://edgracia.dev/blog) for project updates!**
-
----
-
-## Current Focus
-
-Right now I'm interested in:
-
-* C++
-* Game Development
-* Software Architecture
-* AI-Assisted Development
-* Developer Tools
-* Startups & Product Building
-
 ---
 
 ## Tech Stack
